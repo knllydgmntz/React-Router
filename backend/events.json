@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Kyuts new event","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.azavista.com%2Fblog%2Fevent-planning-fails-attendees-hate&psig=AOvVaw2eM2sRgVrL8ecefZeazO5C&ust=1709900339956000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCmsKSR4oQDFQAAAAAdAAAAABAJ","date":"2024-03-22","description":"hahaha","id":"6c2728cf-986b-4c1e-a025-603ec8911d79"},{"title":"A new event","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcma.org%2Fdigital-first-event-design%2F&psig=AOvVaw2EpS2Jp4dyhFPNwlCF9vZ2&ust=1709900138878000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiyxcSQ4oQDFQAAAAAdAAAAABAE","date":"2024-03-07","description":"Some awesome event!","id":"a4d45d15-6931-438a-a1bc-9af9c96b2656"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
